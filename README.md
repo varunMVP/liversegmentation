@@ -12,7 +12,8 @@ This project uses deep learning to automatically segment the liver in CT scans.
 ## Requirements
 - Python 3.x
 - TensorFlow
-##Screenshots
+
+## Screenshots
 
 ![image](https://github.com/user-attachments/assets/08812995-fb35-4ed4-be90-8a227dfefadc)
 
